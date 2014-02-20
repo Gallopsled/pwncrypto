@@ -1,8 +1,9 @@
 pwncrypto
 =========
 
-__This library is super ALPHA software__
-__It will probably wipe your disk and kick your dog__
+__This library is super ALPHA.__
+
+__It will probably wipe your disk and kick your dog!__
 
 Python library for working with cryptography, cryptographic primitives,
 and number theory.
