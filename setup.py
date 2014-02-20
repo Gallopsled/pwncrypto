@@ -7,7 +7,7 @@ setup(
     author_email='pwnies@dikumail.dk',
     packages=['pwncrypto'],
     scripts=[],
-    url='http://github.com/pwnies/pwncrypto',
+    url='https://github.com/pwnies/pwncrypto',
     license='LICENSE.txt',
     description='A python library implementing crypto attacks and utility functions',
     long_description=open('README.md').read(),
